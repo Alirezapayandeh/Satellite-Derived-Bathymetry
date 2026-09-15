@@ -1,6 +1,10 @@
 # Langebaan Satellite-Derived Bathymetry
 
-Example workflow for generating satellite-derived bathymetry in Langebaan Lagoon, South Africa, using Sentinel-2 imagery, ICESat-2 ATL24 bathymetric observations, and XGBoost.
+This repository provides a simplified, reproducible example of the
+satellite-derived bathymetry workflow described in Payandeh et al. (2026).
+The example uses one Sentinel-2 scene and one ICESat-2 ATL24 track.
+The published study used multiple ATL24 tracks and 16 Sentinel-2 scenes
+to produce and validate the final bathymetry.
 
 Developer: Ali Reza Payandeh
 
