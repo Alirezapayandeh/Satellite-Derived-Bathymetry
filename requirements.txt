@@ -1,0 +1,10 @@
+numpy
+pandas
+netCDF4
+matplotlib
+rasterio
+scipy
+scikit-learn
+xgboost
+optuna
+cmocean
