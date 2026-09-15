@@ -27,6 +27,19 @@ pip install -r requirements.txt
 
 Then open:
 
+## Citation and Acknowledgments
+
+This code was developed by Ali Reza Payandeh.
+
+If you use this workflow in research, please acknowledge the repository and cite the associated publication when available.
+
+The workflow uses publicly available Earth observation data from:
+
+Sentinel-2, operated by the European Space Agency through the Copernicus Programme
+ICESat-2, operated by NASA
+
+Sentinel-2 surface reflectance used in the example was processed using ACOLITE.
+
 Satellite_Derived_Bathymetry.ipynb
 
 and run the notebook from top to bottom.
