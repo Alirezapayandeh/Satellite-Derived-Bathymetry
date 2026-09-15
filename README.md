@@ -31,7 +31,10 @@ Then open:
 
 This code was developed by Ali Reza Payandeh.
 
-If you use this workflow in research, please acknowledge the repository and cite the associated publication when available.
+If you use this workflow in research, please acknowledge the repository and cite this:
+
+Payandeh, A. R., Simard, M., Jensen, D., Campbell, A. D., van Deventer, H., & Christensen, A. (2026). A fully satellite-driven workflow for hydrodynamic modeling in data-scarce coastal systems: integrating ICESat-2, Sentinel-2, SWOT and reanalysis models. Frontiers in Remote Sensing, 7, 1751006. https://doi.org/10.3389/frsen.2026.1751006
+
 
 The workflow uses publicly available Earth observation data from:
 
